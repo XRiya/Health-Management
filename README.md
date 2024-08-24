@@ -1,4 +1,6 @@
-This project is a simple Python-based health management system designed to help users manage and track their diet. The system allows users to input their dietary data and stores it for future reference, enabling better monitoring of eating habits. The project includes the following features:
+# This project is a simple Python-based health management system designed to help users manage and track their diet. The system allows users to input their dietary data and stores it for future reference, enabling better monitoring of eating habits. 
+
+![pro](https://github.com/user-attachments/assets/0e5863d2-2526-48e8-bf9e-747cef24ab17)
 
 # Data Input and Storage: 
 Users can easily input their diet-related data, which is stored in a structured format for easy retrieval and analysis.
